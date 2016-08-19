@@ -1,0 +1,5 @@
+Changelog for msProductVariety.
+
+1.0.0-beta3
+==============
+- Первая публикация
